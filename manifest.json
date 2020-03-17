@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "mainpage",
+  "version": "1.0",
+
+  "description": "Changes the URL of a tab to the main page of the website.",
+  "homepage_url": "https://github.com/simonthor/mainpage",
+  "permissions": ["activeTab"],
+
+  "icons": {
+    "48": "icon.svg",
+    "96": "icon.svg"
+  },
+
+  "browser_action": {
+    "default_icon": "icon.svg",
+    "default_title": "mainpage",
+    "default_popup": "popup/mainpage.html"
+  }
+}
