@@ -14,6 +14,14 @@ Although another feature for redirecting to the entire domain's front page might
 - ```https://cdn.eso.org/images/large/yb_big_dog_paranal_cc.jpg``` &rarr; ```https://cdn.eso.org```
 - ```https://www.youtube.com/watch?v=dQw4w9WgXcQ``` &rarr; ```https://www.youtube.com```
 
+## Installation
+The extension is currently not avaiable on the Firefox addons page but can still be installed manually.
+1. Download this repository.
+2. Write ```àbout:debugging#/runtime/this-firefox``` in the url bar in Firefox.
+3. Click on "add temporary add-on"
+4. Choose any file in the repository (e.g. ```manifest.json```).
+5. Done! The logo should now appear in the toolbar in the top right corner of Firefox.
+
 ![mainpage logo](icons/icon.svg)
 
 &copy; Simon Thor 2020
