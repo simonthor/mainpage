@@ -17,7 +17,7 @@ Although another feature for redirecting to the entire domain's front page might
 - ```https://www.youtube.com/watch?v=dQw4w9WgXcQ``` &rarr; ```https://www.youtube.com```
 
 ## Installation
-The extension is currently not avaiable on the Firefox addons page but can still be installed manually.
+The extension is currently not available on the Firefox add-ons page but can still be installed manually.
 1. Download this repository.
 2. Write ```àbout:debugging#/runtime/this-firefox``` in the url bar in Firefox.
 3. Click on "add temporary add-on"
