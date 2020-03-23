@@ -19,7 +19,7 @@ Although another feature for redirecting to the entire domain's front page might
 ## Installation
 The extension is currently not available on the Firefox add-ons page but can still be installed manually.
 1. Download this repository.
-2. Write ```àbout:debugging#/runtime/this-firefox``` in the url bar in Firefox.
+2. Write ```about:debugging#/runtime/this-firefox``` in the url bar in Firefox.
 3. Click on "add temporary add-on"
 4. Choose any file in the repository (e.g. ```manifest.json```).
 5. Done! The logo should now appear in the toolbar in the top right corner of Firefox.
