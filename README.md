@@ -1,8 +1,10 @@
-# Mainpage [![GitHub license](https://img.shields.io/badge/license-GPLv3.0-blue.svg)](https://github.com/simonthor/mainpage/blob/master/LICENSE)
-A minimalist Firefox extension for redirecting to the front page of a website.
+# Mainpage version 1.0 [![GitHub license](https://img.shields.io/badge/license-GPLv3.0-blue.svg)](https://github.com/simonthor/mainpage/blob/master/LICENSE)
+A minimalist Firefox extension for redirecting to the front page of a website. 
+This version of mainpage is planned to be uploaded to the [Mozilla add-ons page](https://addons.mozilla.org).
+All the files (no more, no less) for the actual firefox extension is in the [mainpage-1.0](/mainpage-1.0.zip) zip-folder.
 
 ## Tutorial
-Once installed, the mainpage icon will appear in the toolbar. Press it, and you will be redirected to your current tab's front page.
+Once installed, the mainpage icon will appear in the toolbar. Press it, and you will be redirected to your current tab's website's front page.
 It's as simple as that!
 
 Note: This extension will redirect to the subdomain's front page, not to the entire website's front page. 
