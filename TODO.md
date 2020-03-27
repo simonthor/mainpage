@@ -1,2 +1,2 @@
 # TODO
-- [ ] Make redirect more consistent
+- [x] Make redirect more consistent
